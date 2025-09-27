@@ -1,0 +1,3 @@
+# Task 1
+def solve_task1():
+  ...
